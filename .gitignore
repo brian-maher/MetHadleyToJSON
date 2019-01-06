@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# App specific
+data.json
+conversion.log
+min_*.txt
+mean_*.txt
+max_*.txt
